@@ -1,0 +1,53 @@
+{
+    "953d9f0a.fef86": {
+        "user": "denis.manteufel@gmail.com",
+        "password": "cafeaffe99!"
+    },
+    "a9d5ba39.268648": {
+        "user": "root",
+        "password": "cafeaffe99!"
+    },
+    "5e09b054.15b4a": {
+        "username": "denis",
+        "password": "Cafeaffe99!!$$"
+    },
+    "ca14d1e.342ce3": {
+        "posLatitude": "52.6070407",
+        "posLongitude": "13.2460707"
+    },
+    "4fdfe1abbacd4c92": {
+        "key": "a22c03dc-18df-0b54-46ce-2f27f7a6470d"
+    },
+    "d886c36296b0b8b0": {
+        "clientId": "ee76416f89b14ae9b0ec2bc21c39c7cb",
+        "clientSecret": "fb00103b2b2c4c41b0cc19d286082ef3",
+        "accessToken": "BQBzOg_tZDkcNuuqdeUoBFAJiwAcDP48oP598wshMVzc-dzAzFI8uooDPj_39OnbQ6uLTKmx0sQDVysFuJ9hHG1P8r3TVvrwLHQMSbzXrbeB3y5rny6Xjh5oCGlQNZe8LapMEBUzB_CzmYgbHwYO8NNVjAdkrvGi0S_AUdzbdCSQr-5eHfsw062imbO75yR7IZm8SPJ94_6LPivBQzIKSQuWri5EiB7ofgPhZaKoHx2p-fqSAkZtsjlD9Y2STWoMkxlHPmQeDI46X8lsNw_JC05tlYiL3ZLzo6k50WNbv3UwcGYpqS8DwVxWbiYbnV_v",
+        "refreshToken": "AQDoygF76D1jjIo6bj-Jwgda-aco0YXmmeqsyL3rle_87V2PuFJ7zQBBm1DVdO2l5rYwpl-h0fIlgqaeRL5veaowjLAz0zVLuaMOKlfqTQSXwzvyyHJ0jnvUPS7K8DuOf8k",
+        "expireTime": 1696622198,
+        "tokenType": "Bearer",
+        "name": "Spotify OAuth3"
+    },
+    "c855a7c2.4238f8": {},
+    "7e6d559a.ba7d3c": {},
+    "9bc5b729.d3fe08": {
+        "user": "denis.manteufel@gmail.com",
+        "password": "cafeaffe99!"
+    },
+    "ba5ae90158a26445": {
+        "host": "http://192.168.1.50:8123",
+        "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI3NzFkM2ZhY2UzNjI0Yjk4ODk0NTc2OWY3YjQyYTE5NCIsImlhdCI6MTY4NzM3MTg1OSwiZXhwIjoyMDAyNzMxODU5fQ.46Si9bKcqXLM_j_ho5U8IVHGHglwNpCO8lNvGLH_i88"
+    },
+    "a99f24fd0d55610a": {
+        "key": "0362bb05-cd3b-a881-5f4e-b167432ae901"
+    },
+    "5b7f31331a79ef8b": {},
+    "b7ca111601cacba3": {},
+    "2e0749be256682d0": {},
+    "834ca992.dee4e8": {
+        "user": "denis.manteufel@gmail.com",
+        "password": "cafeaffe99!"
+    },
+    "2e61c3316aed7506": {
+        "apikey": "9905bbf260b377770b3add37d81f55f6"
+    }
+}
